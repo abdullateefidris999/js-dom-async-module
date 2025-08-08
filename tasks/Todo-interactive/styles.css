@@ -1,0 +1,12 @@
+.completed{
+    color: green;
+}
+.incompleted{
+    color:black;
+}
+.inactive{
+    visibility: hidden;
+}
+.active{
+    visibility: visible;
+}
